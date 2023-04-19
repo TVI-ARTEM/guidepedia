@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name" translatable="false">Guidepedia</string>
+    <string name="topic_title_hint">Enter topic title</string>
+    <string name="topic_content_hint">Enter topic content</string>
+    <string name="profile_hint">Enter about you</string>
+    <string name="nickname_hint">Enter nickname</string>
+    <string name="avatar_hint">Enter avatar link</string>
+    <string name="bank_hint">Enter bank detail data</string>
+    <string name="add_header_style_content_description" translatable="false">Add header style</string>
+    <string name="header_markdown_stars" translatable="false">#</string>
+    <string name="add_bold_style_content_description" translatable="false">Add bold style</string>
+    <string name="bold_markdown_stars" translatable="false">**</string>
+    <string name="bold_markdown_hint">**Bold text**</string>
+    <string name="add_italic_style_content_description" translatable="false">Add italic style</string>
+    <string name="italic_markdown_stars" translatable="false">*</string>
+    <string name="italic_markdown_hint">*Italic text*</string>
+    <string name="add_strikethrough_style_content_description" translatable="false">Add italic style</string>
+    <string name="strikethrough_markdown_symbol" translatable="false">~~</string>
+    <string name="strikethrough_markdown_hint">~~Strikethrough text~~</string>
+    <string name="add_new_line_content_description" translatable="false">Add new line</string>
+    <string name="new_line_markdown_stars" translatable="false">\n</string>
+    <string name="add_selected_content_description" translatable="false">Add selected content</string>
+    <string name="selected_text_markdown_stars" translatable="false">`</string>
+    <string name="selected_text_markdown_hint">`Selected text`</string>
+    <string name="add_horizontal_line_description" translatable="false">Add link</string>
+    <string name="horizontal_line_markdown_stars" translatable="false">\n\n---\n\n</string>
+    <string name="add_link_content_description" translatable="false">Add link</string>
+    <string name="add_code_content_description" translatable="false">Add code</string>
+    <string name="add_image_content_description" translatable="false">Add image</string>
+    <string name="add_list_rounded_content_description" translatable="false">Add list rounded</string>
+    <string name="rounded_list_markdown_symbol" translatable="false">*</string>
+    <string name="rounded_list_markdown_hint">* List Item</string>
+    <string name="add_list_numeric_content_description" translatable="false">Add list numeric</string>
+    <string name="numeric_list_markdown_symbol" translatable="false">1.</string>
+    <string name="numeric_list_markdown_hint">1. List Item</string>
+    <string name="sign_in_login_hint">Enter login</string>
+    <string name="sign_in_password_hint">Enter password</string>
+    <string name="sign_up_login_hint">Enter login</string>
+    <string name="sign_up_nickname_hint">Enter nickname</string>
+    <string name="sign_up_password_hint">Enter password</string>
+    <string name="sign_in_button_text">Sign In</string>
+    <string name="sign_up_button_text">Sign Up</string>
+    <string name="no_account_hint">No account?</string>
+    <string name="create_one_hint">Create one!</string>
+    <string name="yes_account_hint">Already have an account?</string>
+    <string name="sign_in_account_hint">Sign In</string>
+    <string name="login_button_text">Login</string>
+    <string name="search_input_hint">Search</string>
+    <string name="categories_name">Category</string>
+    <string name="subscription_name">Subscriptions</string>
+    <string name="all_screen_filter_name_hint">All</string>
+    <string name="subscriptions_screen_filter_name_hint">Subscriptions</string>
+    <string name="saved_screen_filter_name_hint">Saved</string>
+    <string name="liked_screen_filter_name_hint">Liked</string>
+    <string name="my_articles_screen_filter_name_hint">My Articles</string>
+    <string name="my_drafts_screen_filter_name_hint">Drafts</string>
+    <string name="categories_screen_filter_name_hint">Categories</string>
+    <string name="logout_button_text">Logout</string>
+    <string name="language_button_text">Change language</string>
+    <string name="no_connection_hint">No connection</string>
+    <string name="hello_main_menu">Hello, %1$s!</string>
+    <string name="my_profile_top">My Profile</string>
+    <string name="profile_name">Profile</string>
+    <string name="go_to_channel_name">Go to channel</string>
+    <string name="raw_name" translatable="false">Raw</string>
+    <string name="render_name" translatable="false">Render</string>
+    <string name="settings_top">Settings</string>
+    <string name="about_profile">About</string>
+    <string name="followers_profile">followers</string>
+    <string name="avatar_title">Change avatar</string>
+    <string name="bank_title">Add bank detail</string>
+    <string name="bank_details">Bank</string>
+    <string name="guidepedia" translatable="false">Guidepedia</string>
+    <string name="articles_name">Articles</string>
+    <string name="no_article_hint">No Articles</string>
+    <string name="bank_detail">Detail:</string>
+    <string name="comments_name">Comments</string>
+    <string name="comments_hint">Enter Comment</string>
+
+
+</resources>
